@@ -11,7 +11,7 @@ INPUT_FILE = BASE_DIR / "Doanh số bán hàng Ford 2023-2025.xlsx"
 OUTPUT_FILE = BASE_DIR / "Ford_Sales_2023_2025_cleaned_v2.xlsx"
 
 
-# Các cột có trong từng sheet năm và cần cho phân tích.
+# Các cột có trong từng sheet năm.
 SOURCE_COLUMNS = [
     "STT",
     "Tên KH",
